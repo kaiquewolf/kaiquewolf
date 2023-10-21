@@ -12,7 +12,6 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?kaiquewolf=MGBrave&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
  
 </div>
  
