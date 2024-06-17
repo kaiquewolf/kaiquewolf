@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao Meu perfil sou o Kaique Silva, é um prazer ter você por aqui! 😁
 
-   ## ---> Sobre Mim <---
+   # Sobre Mim:
    
    Olá! Eu sou um desenvolvedor web apaixonado por tecnologia e inovação. Com experiência em diversas ferramentas e metodologias modernas, estou sempre em busca de novas oportunidades para aprender e crescer na minha carreira. Aqui estão algumas das minhas habilidades principais:
 
