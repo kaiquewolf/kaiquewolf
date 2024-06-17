@@ -1,4 +1,14 @@
-## Bem-vindo(a) ao perfil do KaiqueWolf 😁
+## Bem-vindo(a) ao Meu perfil sou o Kaique Silva, é um prazer ter você por aqui! 😁
+
+   ---> Sobre Mim <---
+Olá! Eu sou um desenvolvedor web apaixonado por tecnologia e inovação. Com experiência em diversas ferramentas e metodologias modernas, estou sempre em busca de novas oportunidades para aprender e crescer na minha carreira. Aqui estão algumas das minhas habilidades principais:
+
+Desenvolvimento Front-end: Conhecimento em React.js, criando interfaces de usuário dinâmicas e responsivas.
+Linguagens de Programação: Proficiência em JavaScript, utilizando boas práticas e padrões de mercado.
+Controle de Versão: Experiência com Git, gerenciando código-fonte e colaborando eficazmente em equipes.
+Metodologias Ágeis: Conhecimento em Scrum, aplicando princípios ágeis para melhorar a eficiência e a qualidade dos projetos.
+Estou sempre aberto a novas oportunidades e desafios que me permitam aplicar minhas habilidades e contribuir para projetos inovadores. Vamos nos conectar e criar algo incrível juntos!
+
  
  <div>
   <a href="https://github.com/kaiquewolf">
